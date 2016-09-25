@@ -1,0 +1,44 @@
+# Kodi Media Center language file
+# Addon Name: Version Check
+# Addon id: service.xbmc.versioncheck
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: beradio plugin\n"
+"Report-Msgid-Bugs-To: pjgunst@gmail.com\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Pieter-Jan Gunst\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32000"
+msgid "Language choice"
+msgstr "Language choice"
+
+msgctxt "#32001"
+msgid "Dutch"
+msgstr "nl"
+
+msgctxt "#32002"
+msgid "French"
+msgstr "fr"
+
+msgctxt "#32003"
+msgid "German"
+msgstr "de"
+
+msgctxt "#32050"
+msgid "Stream quality"
+msgstr "quality"
+
+msgctxt "#32051"
+msgid "High"
+msgstr "high"
+
+msgctxt "#32052"
+msgid "Low"
+msgstr "low"

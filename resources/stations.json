@@ -1,0 +1,180 @@
+{
+    "000": {
+        "id": 		0,
+	"name": 	"Radio1",
+	"streamurl": 	{
+				"high": "http://mp3.streampower.be/radio1-high.mp3",
+				"low": 	"http://mp3.streampower.be/radio1-low.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"radio1_256.png"	
+    },
+    "001": {
+        "id": 		1,
+	"name": 	"Radio2",
+	"streamurl": 	{
+				"high":	"http://mp3.streampower.be/radio2-high.mp3",
+				"low":	"http://mp3.streampower.be/radio2-low.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"radio2_256.png"	
+    },
+    "002": {
+        "id": 		2,
+	"name": 	"Klara",
+	"streamurl": 	{
+				"high":	"http://mp3.streampower.be/klara-high.mp3",
+				"low":	"http://mp3.streampower.be/klara-low.mp3"
+			},				
+	"language":	"nl",
+	"icon256":	"klara_256.png"	
+    },
+    "003": {
+        "id": 		3,
+	"name": 	"Studio Brussel",
+	"streamurl": 	{
+				"high":	"http://mp3.streampower.be/stubru-high.mp3",
+				"low":	"http://mp3.streampower.be/stubru-low.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"stubru_256.png"	
+    },
+    "004": {
+        "id": 		4,
+	"name": 	"MNM",
+	"streamurl": 	{
+				"high":	"http://mp3.streampower.be/mnm-high.mp3",
+				"low":	"http://mp3.streampower.be/mnm-low.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"mnm_256.png"	
+    },
+    "005": {
+        "id": 		5,
+	"name": 	"Sporza",
+	"streamurl": 	{
+				"high":	"http://mp3.streampower.be/sporza-high.mp3",
+				"low":	"http://mp3.streampower.be/sporza-low.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"sporza_256.png"	
+    },
+    "006": {
+        "id": 		6,
+	"name": 	"Ketnet",
+	"streamurl": 	{
+				"high":	"http://mp3.streampower.be/ketnetradio-high.mp3",
+				"low":	"http://mp3.streampower.be/ketnetradio-low.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"ketnet_256.png"	
+    },
+    "007": {
+        "id": 		7,
+	"name": 	"Qmusic",
+	"streamurl": 	{
+				"high":	"http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_64.aac",
+				"low":	"http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_32.aac"
+			},
+	"language":	"nl",
+	"icon256":	"qmusic_256.png"	
+    },
+    "008": {
+        "id": 		8,
+	"name": 	"JoeFM",
+	"streamurl": 	{
+				"high":	"http://icecast-qmusic.cdp.triple-it.nl/JOEfm_be_live_96.mp3",
+				"low":	"http://icecast-qmusic.cdp.triple-it.nl/JOEfm_be_live_96.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"joefm_256.png"	
+    },
+    "009": {
+        "id": 		9,
+	"name": 	"Topradio",
+	"streamurl": 	{
+				"high":	"http://loadbalancing.topradio.be/topradio.mp3"
+			},
+	"language":	"nl",
+	"icon256":	"topradio_256.png"	
+    },
+    "011": {
+        "id": 		10,
+	"name": 	"RTBF La Premiere",
+	"streamurl": 	{
+				"high":	"http://lapremiere.ice.rtbf.be/lapremiere-128.mp3.m3u",
+				"low":	"http://lapremiere.ice.rtbf.be/lapremiere-64.mp3.m3u"
+			},
+	"language":	"fr",
+	"icon256":	"lapremiere_256.png"	
+    },
+    "012": {
+        "id": 		12,
+	"name": 	"RTBF Classic 21",
+	"streamurl": 	{
+				"high":	"http://classic21.ice.rtbf.be/classic21-128.mp3.m3u",
+				"low":	"http://classic21.ice.rtbf.be/classic21-128.mp3.m3u"
+			},
+	"language":	"fr",
+	"icon256":	"classic21_256.png"	
+    },
+    "013": {
+        "id": 		13,
+	"name": 	"RTBF Vivacite",
+	"streamurl": 	{
+				"high":	"http://vivacitebruxelles.ice.rtbf.be/vivabxl-128.mp3.m3u",
+				"low":	"http://vivacitebruxelles.ice.rtbf.be/vivabxl-64.mp3.m3u"
+			},
+	"language":	"fr",
+	"icon256":	"vivacite_256.png"	
+    },
+    "014": {
+        "id": 		14,
+	"name": 	"Pure FM",
+	"streamurl": 	{
+				"high":	"http://purefm.ice.rtbf.be/purefm-128.mp3.m3u",
+				"low":	"http://purefm.ice.rtbf.be/purefm-64.mp3.m3u"
+			},
+	"language":	"fr",
+	"icon256":	"purefm_256.png"	
+    },
+    "015": {
+        "id": 		15,
+	"name": 	"NRJ",
+	"streamurl": 	{
+				"high":	"http://broadcast.infomaniak.net/nrjbe-high.mp3.m3u",
+				"low":	"http://broadcast.infomaniak.net/nrjbe-low.mp3.m3u"
+			},
+	"language":	"fr",
+	"icon256":	"nrj_256.png"	
+    },
+    "016": {
+        "id": 		16,
+	"name": 	"Radio Contact FR",
+	"streamurl": 	{
+				"high":	"http://www.listenlive.eu/contactfr.m3u"
+			},
+	"language":	"fr",
+	"icon256":	"radiocontactfr_256.png"	
+    },
+    "017": {
+        "id": 		17,
+	"name": 	"BRF 1",
+	"streamurl": 	{
+				"high":	"http://streaming.brf.be/brf1-high.mp3.m3u",
+				"low":	"http://streaming.brf.be/brf1-low.mp3.m3u"
+			},
+	"language":	"de",
+	"icon256":	"brf1_256.png"	
+    },
+    "018": {
+        "id": 		18,
+	"name": 	"BRF 2",
+	"streamurl": 	{
+				"high":	"http://streaming.brf.be/brf2-high.mp3.m3u",
+				"low":	"http://streaming.brf.be/brf2-low.mp3.m3u"
+			},
+	"language":	"de",
+	"icon256":	"brf2_256.png"	
+    }
+}

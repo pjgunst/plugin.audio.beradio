@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="587">
+    		<setting id="settings_lang" type="enum" default="0" label="32000" lvalues="593|32001|32002|32003" />
+    		<setting id="settings_stream" type="enum" default="0" label="32050" lvalues="32051|32052" />
+	</category>
+</settings>

@@ -13,6 +13,9 @@ Simple. Sexy.
 ## Installation
 
 Copy to the Kodi plugins folder (e.g. /usr/share/kodi/addons/plugin.audio.beradio)
+You may want to configure the plugin to
+* filter on your preferred language
+* set the desired bitrate (high bitrate is the default)
 
 
 ## Contributors

@@ -14,7 +14,7 @@ def process_stations(data,settings):
         if index_language > 0 and myRadioStation.language != beradio.languages[index_language] :
             continue
         # end language filter
-        beradio.plugin.log.info(myRadioStation.getStreamUrl(settings.getStream()))
+        beradio.plugin.log.debug(myRadioStation.getStreamUrl(settings.getStream()))
         myitems.append({
             'label': myRadioStation.name,
             'path': myRadioStation.getStreamUrl(settings.getStream()),
